@@ -43,21 +43,22 @@ open index.html
 or simply double-click the file.
 
 📁 File Structure
-arduino
-Copy
-Edit
+```
 image-slider/
 ├── index.html
 ├── style.css
-├── script.js
+├── main.js
 ├── images/
-│   ├── slide1.jpg
-│   ├── slide2.jpg
+│   ├── img1.jpg
+│   ├── img2.jpg
 │   └── ...
-└── screenshots/
-    └── dashboard.png
+│   └── dashboard.png
+
+   
+```
+
 ✨ Icons Used
-Font Awesome icons for navigation (<, >, •)
+Font Awesome icons for navigation (<, >)
 
 Interactive hover styles with scaling and shadows
 
@@ -72,6 +73,5 @@ Add caption and title overlays
 Add fullscreen and zoom controls
 
 🧑‍💻 Author
-Your Name
-GitHub | LinkedIn
+Your Name - Pallavi Shelavale
 

@@ -13,7 +13,7 @@ A simple and beautiful **Image Slider** built using **HTML**, **CSS**, and **Jav
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](./screenshots/dashboard.png)
+![Dashboard Screenshot](./images/dashboard.png)
 
 > *Above: A clean and modern image slider dashboard with interactive icons and navigation controls.*
 
@@ -21,25 +21,25 @@ A simple and beautiful **Image Slider** built using **HTML**, **CSS**, and **Jav
 
 - **HTML5**
 - **CSS3** (Flexbox, transitions)
-- **JavaScript** (Vanilla JS for interactivity)
+- **JavaScript**
 
 ## 🔧 How to Use
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/image-slider.git
-Navigate into the project directory:
+   ```
+   git clone https://github.com/shelavalepallavi/image-slider.git
 
-bash
-Copy
-Edit
+Navigate into the project directory:
+```
 cd image-slider
+```
+
 Open index.html in your browser:
 
-bash
-Copy
-Edit
+```
 open index.html
+```
+
 or simply double-click the file.
 
 📁 File Structure
